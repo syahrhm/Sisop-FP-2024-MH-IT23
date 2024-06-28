@@ -8,3 +8,12 @@
 | 5027231020 | Acintya Edria Sudarsono         |
 | 5027231044 | Dionisius Marcell Putra Indranto|
 | 5027231072 | Aisyah Rahmasari                |
+
+### Struktur Repository 
+
+```sh
+-fp/
+    ---discorit.c 
+    ---monitor.c 
+    ---server.c 
+```
