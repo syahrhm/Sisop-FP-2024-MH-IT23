@@ -17,3 +17,8 @@
     ---monitor.c 
     ---server.c 
 ```
+## REVISI
+
+### discorit.c
+
+
